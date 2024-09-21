@@ -27,3 +27,4 @@ Democracy improv is a method of spontaneous coordination for leaderless collecti
 #### Collective Providence
 
 Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals. See the [collective providence website](https://collectiveprovidence.org) for more details.
+
