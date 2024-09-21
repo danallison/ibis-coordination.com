@@ -1,4 +1,4 @@
-<img src="images/ibis.png" width="400px">
+<img src="ibis.png" width="400px">
 
 Ibis is a collection of projects led by [Dan Allison](https://danallison.info) re: group coordination and collective intelligence.
 
@@ -10,7 +10,7 @@ Ibis is a collection of projects led by [Dan Allison](https://danallison.info) r
 
 ### The Ibis Framework for Group Coordination
 
-The Ibis Framework is a set of ideas and practices originally conceived of by Dan Allison for the creation of highly coordinated groups. The framework consists of 3 main components.
+The Ibis Framework is a set of ideas and practices for the creation of highly coordinated groups. The framework consists of 3 main components.
 
 1. Reciprocal Integrity
 2. [Democracy Improv](https://democracyimprov.org)
