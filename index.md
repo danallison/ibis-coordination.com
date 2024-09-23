@@ -2,7 +2,7 @@
 
 <img src="ibis.png" width="400px">
 
-__Ibis Coordination__ teaches group coordination methodologies and maintains open-source software [Decisive Team](https://decisive.team).
+__Ibis Coordination__ teaches group coordination practices and maintains open-source software [Decisive Team](https://decisive.team).
 
 ## The Ibis Coordination Framework
 
