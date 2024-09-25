@@ -4,6 +4,10 @@
 
 __Ibis Coordination__ teaches group coordination practices and maintains open-source software [Decisive Team](https://decisive.team).
 
+## Coordination Training
+
+Training for individuals and teams. [Read more](/training)
+
 ## The Ibis Coordination Framework
 
 [The Ibis Coordination Framework](/framework) is a set of ideas and practices for the creation of highly coordinated groups.
