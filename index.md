@@ -12,7 +12,7 @@ Training on coordination skills and practices. Helpful for people who feel stuck
 
 ## Software
 
-* [Decisive Team](https://decisive.team) is open-source software for fast group decision-making based on approval voting.
+* [Decisive Team](https://decisive.team) is open-source software for fast group decision-making based on acceptance voting.
 * [Coordinated Team](https://coordinated.team) (coming soon) is open-source software for fast group coordination based on reciprocal commitments.
 
 ## Contact
