@@ -6,7 +6,7 @@ __Ibis Coordination__ is a one-man company founded by Dan Allison with the missi
 
 ## Training
 
-Training on coordination skills and practices. Helpful for people who feel stuck professionally, people who are in leadership positions, and people who have too many meetings.
+I teach individuals and teams how to coordinate more effectively and access collective intelligence more consistently.
 
 [Read more](/training)
 
