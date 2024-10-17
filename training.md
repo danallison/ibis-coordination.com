@@ -8,7 +8,7 @@ Learning these skills is empowering for both individuals and teams.
 
 ## Training For Individuals
 
-If you feel stuck or powerless in your current job (or lack thereof), learning the skills of group coordination can open doors for you that you might not even realize are there. Getting unstuck might be easier than you think.
+For individuals, learning the skills of group coordination can open doors that you might not even realize are there. Many of the barriers that individuals face come from a failure to discover the mutually beneficial possibilities with the people you are already interacting with.
 
 In this training program, you will learn how to relate to others such that the shared attention between you and others naturally converges on shared goals and values, thus allowing for spontaneous coordination that is mutually beneficial.
 
