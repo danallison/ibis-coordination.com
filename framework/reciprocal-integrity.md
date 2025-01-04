@@ -2,7 +2,9 @@
 
 _last updated 2024-09-21_
 
-Reciprocal integrity is the practice of bringing out the best in others by reflecting their integrity back to them, while also relating to others such that they bring out the best in you regardless of their behavior.
+Reciprocal integrity is a combination of the concepts of recriprocity and personal integrity. Reciprocity means treating others the way you want to be treated. Personal integrity means your language and your behavior line up.
+
+Reciprocal integrity is the practice of interpreting other people's language and behavior as charitably as you want yours to be interpreted.
 
 Approximately speaking, reciprocal integrity can be characterized as generalized steelmanning (i.e. assuming good intent and interpreting a person's words and actions in the most charitable way) plus regarding adversarial situations as opportunities for personal growth.
 

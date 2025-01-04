@@ -1,3 +1,9 @@
+---
+title: Training | Ibis Coordination
+layout: default
+permalink: /training
+---
+
 # Coordination Training
 
 Group coordination can seem like a complex thing that is difficult to influence. But the truth is we all influence each other all the time in very direct ways that either increase or decrease our ability to coordinate.
