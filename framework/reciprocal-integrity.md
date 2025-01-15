@@ -2,7 +2,7 @@
 
 _last updated 2024-09-21_
 
-Reciprocal integrity is a combination of the concepts of recriprocity and personal integrity. Reciprocity means treating others the way you want to be treated. Personal integrity means your language and your behavior line up.
+Reciprocal integrity is a combination of the concepts of reciprocity and personal integrity. Reciprocity means treating others the way you want to be treated. Personal integrity means your language and your behavior line up.
 
 Reciprocal integrity is the practice of interpreting other people's language and behavior as charitably as you want yours to be interpreted.
 
