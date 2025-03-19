@@ -32,7 +32,9 @@ Read more [here](https://harmonic.team)
 ## About Dan Allison
 
 <img src="danallison-profile-pic-face-icon-logo.png" height="45px">
-Hi I'm Dan. My interest in group coordination began at an early age through music and later comedy improv. I started Ibis Coordination because I kept noticing how simple coordination concepts are widely misunderstood and underutilized. My goal is to make these basic concepts more obvious and easy to use.
+Hi I'm Dan. My interest in group coordination began at an early age through music and comedy improv. In addition to my experience in the arts, my perspective on group coordination has also been influenced by the work of researchers like Elinor Ostrom (commons governance), Edwin Hutchins (distributed cognition), and Michael Levin (collective intelligence).
+
+I started Ibis Coordination because I kept noticing how simple coordination concepts are widely misunderstood and underutilized. My goal is to make these basic concepts more obvious and easy to use.
 
 ## Contact
 
