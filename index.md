@@ -9,6 +9,14 @@ layout: default-no-header
 
 __Ibis Coordination__ is a one-man company founded by Dan Allison with the mission of making group coordination easy.
 
+## Training
+
+### Group Coordination for Business
+
+_Launching June 2025_
+
+The [Group Coordination for Business](/group-coordination-for-business) training course solves the obscenely expensive problem of __Too Many Meetings__ by providing business teams with a coordination framework that eliminates the need for meetings.
+
 ## Software
 
 ### `harmonic.team`
@@ -34,8 +42,8 @@ Read more [here](https://harmonic.team)
 <img src="danallison-profile-pic-face-icon-logo.png" height="45px">
 Hi I'm Dan. My interest in group coordination began at an early age through music and comedy improv. In addition to my experience in the arts, my perspective on group coordination has also been influenced by the work of researchers like Elinor Ostrom (commons governance), Edwin Hutchins (distributed cognition), and Michael Levin (collective intelligence).
 
-I started Ibis Coordination because I kept noticing how simple coordination concepts are widely misunderstood and underutilized. My goal is to make these basic concepts more obvious and easy to use.
+You can read more about my background [here](/about-dan).
 
 ## Contact
 
-Contact [Dan Allison](https://danallison.info) via email at [dan@decisive.team](mailto:dan@decisive.team).
+Contact [Dan Allison](https://danallison.info) via email at [dan.allison@protonmail.com](mailto:dan.allison@protonmail.com)
