@@ -17,6 +17,14 @@ _Launching June 2025_
 
 The [Group Coordination for Business](/group-coordination-for-business) training course solves the obscenely expensive problem of __Too Many Meetings__ by providing business teams with a coordination framework that eliminates the need for meetings.
 
+## Community
+
+### Coordination Camp
+
+<img style="width:100px" src="/spiral-globe.jpg">
+
+[Coordination Camp](https://coordination.camp) is a gathering place for people to learn, teach, and practice group coordination skills.
+
 ## Software
 
 ### `harmonic.team`
@@ -32,10 +40,6 @@ The design of the application is based on 3 concepts:
 * Reciprocal commitments
 
 Read more [here](https://harmonic.team)
-
-## Coordination Camp
-
-[Coordination Camp](https://coordination.camp) is an event to bring together people who share a common interest in group coordination.
 
 ## About Dan Allison
 
