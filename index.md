@@ -13,6 +13,8 @@ __Ibis Coordination__ is a one-man company founded by Dan Allison with the missi
 
 ### Group Coordination for Business
 
+<img style="width:100px" src="/images/octagram.png">
+
 _Launching June 2025_
 
 The [Group Coordination for Business](/group-coordination-for-business) training course solves the obscenely expensive problem of __Too Many Meetings__ by providing business teams with a coordination framework that eliminates the need for meetings.

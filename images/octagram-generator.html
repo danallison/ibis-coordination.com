@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Octagram with Inverted Center</title>
+  <style>
+    body { margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; }
+  </style>
+</head>
+<body>
+  <div id="svg-container"></div>
+  <script>
+    const NS = "http://www.w3.org/2000/svg";
+    const size = 400;
+    const cx = size / 2;
+    const cy = size / 2;
+    const outerR = 160;
+    const offset = 20;
+    const centerR = 86.5;  // large enough to overlap lines
+
+    const svg = document.createElementNS(NS, "svg");
+    svg.setAttribute("width", size);
+    svg.setAttribute("height", size);
+
+    // define clipPath for center circle
+    const defs = document.createElementNS(NS, "defs");
+    const clip = document.createElementNS(NS, "clipPath");
+    clip.setAttribute("id", "center-clip");
+    const clipCircle = document.createElementNS(NS, "circle");
+    clipCircle.setAttribute("cx", cx);
+    clipCircle.setAttribute("cy", cy);
+    clipCircle.setAttribute("r", centerR);
+    clip.appendChild(clipCircle);
+    defs.appendChild(clip);
+    svg.appendChild(defs);
+
+    // compute 8 rotated vertices
+    const verts = [];
+    for (let i = 0; i < 8; i++) {
+      const angle = Math.PI/8 + i * (2 * Math.PI/8);
+      const x = cx + outerR * Math.cos(angle);
+      const y = cy + outerR * Math.sin(angle);
+      verts.push({ x, y, angle });
+    }
+
+    // draw base octagram lines (black)
+    verts.forEach((v, i) => {
+      const j = (i + 3) % 8;
+      const line = document.createElementNS(NS, "line");
+      line.setAttribute("x1", v.x);
+      line.setAttribute("y1", v.y);
+      line.setAttribute("x2", verts[j].x);
+      line.setAttribute("y2", verts[j].y);
+      line.setAttribute("stroke", "black");
+      line.setAttribute("stroke-width", "4");
+      line.setAttribute("stroke-linecap", "round");
+      svg.appendChild(line);
+    });
+
+    // // draw offset circles around ring
+    // verts.forEach(v => {
+    //   const rx = cx + (outerR + offset) * Math.cos(v.angle);
+    //   const ry = cy + (outerR + offset) * Math.sin(v.angle);
+    //   const circle = document.createElementNS(NS, "circle");
+    //   circle.setAttribute("cx", rx);
+    //   circle.setAttribute("cy", ry);
+    //   circle.setAttribute("r", 12);
+    //   circle.setAttribute("fill", "black");
+    //   svg.appendChild(circle);
+    // });
+
+    // draw center filled circle (black)
+    const center = document.createElementNS(NS, "circle");
+    center.setAttribute("cx", cx);
+    center.setAttribute("cy", cy);
+    center.setAttribute("r", centerR);
+    center.setAttribute("fill", "black");
+    svg.appendChild(center);
+
+    // draw inverted lines clipped to center (white)
+    verts.forEach((v, i) => {
+      const j = (i + 3) % 8;
+      const line = document.createElementNS(NS, "line");
+      line.setAttribute("x1", v.x);
+      line.setAttribute("y1", v.y);
+      line.setAttribute("x2", verts[j].x);
+      line.setAttribute("y2", verts[j].y);
+      line.setAttribute("stroke", "white");
+      line.setAttribute("stroke-width", "4");
+      line.setAttribute("clip-path", "url(#center-clip)");
+      svg.appendChild(line);
+    });
+
+    document.getElementById("svg-container").appendChild(svg);
+  </script>
+</body>
+</html>
