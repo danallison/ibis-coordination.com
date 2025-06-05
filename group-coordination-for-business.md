@@ -8,7 +8,7 @@ permalink: /group-coordination-for-business
 
 <img style="width:100px" src="/images/octagram.png">
 
-_Launching June 2025_
+_Launching June 30, 2025_
 
 This training course solves the _obscenely expensive_ problem of __Too Many Meetings__ for business teams who are stuck in the loop of constantly trying to coordinate through meetings (and other forms of back-and-forth communication) but not actually doing much coordinated work. The tools and practices that you and your team will learn in the course allow you to coordinate quickly without meetings and without excessive back-and-forth communication.
 
@@ -54,3 +54,7 @@ Once your team has viewed the course content, they should then be equipped to do
 ## About the Instructor
 
 The course is created and presented by Dan Allison, founder of Ibis Coordination. [Click here](/about-dan) to read more about Dan's background.
+
+## Preview Event
+
+On Monday, June 23rd at 11:00AM PDT, Dan will be hosting a [preview event](https://lu.ma/3f99m6ym) that will cover the course contents, followed by a Q & A session to answer any questions you have about the course. [Click here](https://lu.ma/3f99m6ym) to register for the event.
