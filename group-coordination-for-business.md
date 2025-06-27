@@ -54,7 +54,3 @@ Once your team has viewed the course content, they should then be equipped to do
 ## About the Instructor
 
 The course is created and presented by Dan Allison, founder of Ibis Coordination. [Click here](/about-dan) to read more about Dan's background.
-
-## Preview Event
-
-On Monday, June 23rd at 11:00AM PDT, Dan will be hosting a [preview event](https://lu.ma/3f99m6ym) that will cover the course contents, followed by a Q & A session to answer any questions you have about the course. [Click here](https://lu.ma/3f99m6ym) to register for the event.
