@@ -8,7 +8,7 @@ permalink: /group-coordination-for-business
 
 <img style="width:100px" src="/images/octagram.png">
 
-_Launching June 30, 2025_
+_Launching soon_
 
 This training course solves the _obscenely expensive_ problem of __Too Many Meetings__ for business teams who are stuck in the loop of constantly trying to coordinate through meetings (and other forms of back-and-forth communication) but not actually doing much coordinated work. The tools and practices that you and your team will learn in the course allow you to coordinate quickly without meetings and without excessive back-and-forth communication.
 
