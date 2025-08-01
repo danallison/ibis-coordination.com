@@ -38,7 +38,7 @@ A big lightbulb moment for me occurred in 2021 when I read the book _A Thousand 
 
 I immediately recognized the voting method as approval voting (even though Hawkins does not use that term), which is a voting method I had been advocating for for years through my support of [The Center for Election Science](https://electionscience.org/). I realized that if Hawkins is right, then approval voting is not just a good voting method for democratic elections, it's a fundamental mechanism of collective intelligence in nature.
 
-This realization inspired me to begin building the software that would eventually become [Harmonic Team](https://harmonic.team), which then led to the creation of my variation on approval voting called [acceptance voting](https://danallison.info/writings/acceptance-voting) and ultimately to the founding of Ibis Coordination.
+This realization inspired me to begin building the software that would eventually become [Harmonic](https://about.harmonic.social), which then led to the creation of my variation on approval voting called [acceptance voting](https://danallison.info/writings/acceptance-voting) and ultimately to the founding of Ibis Coordination.
 
 ## Influences
 

@@ -21,11 +21,11 @@ The [Group Coordination for Business](/group-coordination-for-business) training
 
 ## Software
 
-### `harmonic.team`
+### Harmonic
 
 <img src="tri-logos_line.png" height="64px">
 
-[`harmonic.team`](https://harmonic.team) (formerly `decisive.team`) is open-source software for fast group coordination.
+[Harmonic](https://about.harmonic.social) is an open-source social media app that puts social agency before engagement metrics.
 
 The design of the application is based on 3 concepts:
 
@@ -33,7 +33,7 @@ The design of the application is based on 3 concepts:
 * Acceptance voting
 * Reciprocal commitments
 
-Read more [here](https://harmonic.team)
+Read more [here](https://about.harmonic.social)
 
 ## About Dan Allison
 
