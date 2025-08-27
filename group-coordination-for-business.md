@@ -31,7 +31,7 @@ The solution provided in this course will save your business a lot of money.
 
 ## How the course works
 
-The content of the course will be available in June 2025, and is structured as one prerecorded video and transcript, plus a helpful cheatsheet that covers the core concepts. The content is intended to be viewed by everyone on your team (up to 100 people) in order to establish a new shared vocabulary and toolkit that everyone on the team understands.
+The content of the course is structured as one prerecorded video and transcript, plus a helpful cheatsheet that covers the core concepts. The content is intended to be viewed by everyone on your team (up to 100 people) in order to establish a new shared vocabulary and toolkit that everyone on the team understands.
 
 The time and attention of your team is valuable, so the content is distilled down to be concise enough that everyone on the team can fit it into their schedule and quickly understand how to apply the concepts.
 
